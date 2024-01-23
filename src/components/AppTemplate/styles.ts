@@ -7,14 +7,7 @@ export const Container = styled.div`
     height: 100vh;
 `;
 
-export const LeftSide = styled.div`
-    background-color: red;
-    width: 93px;
-    height: 100%;
-
-`;
-
-export const RightSide = styled.div`
+export const Content = styled.div`
     background-color: blue;
     width: 100%;
     height: 100%;
