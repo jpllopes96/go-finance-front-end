@@ -20,3 +20,7 @@ npm run dev
 - instalar styled components
  -https://styled-components.com/docs
  - npm install styled-components
+ -https://segredo.dev/next-js-styled-components/ configurar pra funcionar com o next
+
+ - Criamos a configuação das cores do tema dark
+ 
